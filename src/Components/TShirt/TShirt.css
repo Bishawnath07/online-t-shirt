@@ -1,0 +1,19 @@
+.t-shirt{
+    margin-top: 50px;
+    border: 1px solid lightblue;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+.t-shirt img{
+    height:200px;
+    width: 220px;
+    border-radius: 10px;
+}
+.btn-buy{
+    background-color: rgb(130, 130, 243);
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+
+}
